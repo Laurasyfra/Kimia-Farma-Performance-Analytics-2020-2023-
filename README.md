@@ -1,5 +1,6 @@
 # Kimia-Farma-Performance-Analytics-2020-2023-
 This repository contains a performance analytics dashboard for Kimia Farma's business data from 2020 to 2023, built using Google Looker Studio. The dashboard visualizes key insights from BigQuery tables, including revenue comparisons, top-performing branches, transaction analysis, and geo-mapped profits across Indonesian provinces.  
+
 link to dashboard: https://lookerstudio.google.com/reporting/9ff63e31-f4e9-43b4-8e4e-f4a7d257541e/page/tEnnC?s=qhAMvAO9rTk
 
 Here is the view of the Kimia Farma performance analysis dashboard for 2020-2023:
@@ -16,7 +17,7 @@ Here are some insights that can be obtained from the Kimia Farma performance ana
 3. The pie chart shows the percentage distribution of revenue from year to year, with each year’s figure remaining stable at around 25%. This indicates that the company’s growth has been fairly consistent without significant fluctuations.
 4. West Java is the province with the highest total transactions, reaching nearly 200,000 transactions, with total sales amounting to 102 billion products sold. This also contributes to the highest profit of 29 billion rupiahs, as indicated by the geo chart, where the darkest-colored region represents the highest profit.This performance could be a priority in business strategy.
 5. The best-selling product category is psycholeptic drugs, hypnotics, and sedatives drugs, with total sales reaching 139,849 units.
-The highest branch rating was achieved by a branch in South Sumatra, with a score of 4.8/5. However, it has a lower transaction rating of 4.1/5. Similarly, some other branches have high ratings but a low number of transactions, which could be a focus for further evaluation.
+6. The highest branch rating was achieved by a branch in South Sumatra, with a score of 4.8/5. However, it has a lower transaction rating of 4.1/5. Similarly, some other branches have high ratings but a low number of transactions, which could be a focus for further evaluation.
 
 
 
