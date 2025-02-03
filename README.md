@@ -10,10 +10,10 @@ Here is the view of the Kimia Farma performance analysis dashboard for 2020-2023
 
 
 Here are some insights that can be obtained from the Kimia Farma performance analysis dashboard for the years 2020-2023.
-1. The total number of transactions conducted by all Kimia Farma branches in Indonesia from 2020 to 2023 reached 672,458 transactions, resulting in a total profit of 98.5 billion rupiahs, with total sales amounting to 347 billion products sold.
+1. The total number of transactions conducted by all Kimia Farma branches in Indonesia from 2020 to 2023 reached 672,458 transactions, resulting in a total profit of 98.5 billion rupiahs, with total sales amounting to 347 billion.
 2. The overall branch rating reached 4.4/5, indicating that Kimia Farma has a fairly good performance in terms of profit and sales. This is further supported by the previous point.
 3. The pie chart shows the percentage distribution of revenue from year to year, with each year’s figure remaining stable at around 25%. This indicates that the company’s growth has been fairly consistent without significant fluctuations.
-4. West Java is the province with the highest total transactions, reaching nearly 200,000 transactions, with total sales amounting to 102 billion products sold. This also contributes to the highest profit of 29 billion rupiahs, as indicated by the geo chart, where the darkest-colored region represents the highest profit.This performance could be a priority in business strategy. Here is the dashboard display that represents the insight.
+4. West Java is the province with the highest total transactions, reaching nearly 200,000 transactions, with total sales amounting to 102 billion. This also contributes to the highest profit of 29 billion rupiahs, as indicated by the geo chart, where the darkest-colored region represents the highest profit.This performance could be a priority in business strategy. Here is the dashboard display that represents the insight.
 
    <img width="407" alt="image" src="https://github.com/user-attachments/assets/56307448-060f-4800-a850-376cdddefba8" />
 
